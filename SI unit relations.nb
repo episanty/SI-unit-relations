@@ -973,7 +973,7 @@ Cell[BoxData[
      RowBox[{"{", 
       RowBox[{
        RowBox[{"NotebookDirectory", "[", "]"}], ",", 
-       "\"\<Unit relations in the old SI.png\>\""}], "}"}], "]"}], ",", 
+       "\"\<Unit relations in the old SI.svg\>\""}], "}"}], "]"}], ",", 
     "oldSI"}], "]"}], ";"}]], "Input"],
 
 Cell[CellGroupData[{
@@ -1459,7 +1459,7 @@ Cell[BoxData[{
          RowBox[{
           RowBox[{"Style", "[", 
            RowBox[{
-           "\"\<\!\(\*SubscriptBox[\(\[CapitalDelta]\[Nu]\), \(??\)]\)\>\"", 
+           "\"\<\!\(\*SubscriptBox[\(\[CapitalDelta]\[Nu]\), \(Cs\)]\)\>\"", 
             ",", "18", ",", 
             RowBox[{"GrayLevel", "[", "0.9", "]"}]}], "]"}], ",", 
           RowBox[{"q", "[", "0", "]"}]}], "]"}], "}"}], "]"}], ",", 
@@ -1792,7 +1792,7 @@ Cell[BoxData[
      FontSize->30,
      FontColor->GrayLevel[0.9]], {-3.518241671106134, 2.8057041083643006}], 
    {GrayLevel[0.6], DiskBox[{0, 8}, 1.1]}, InsetBox[
-    StyleBox["\<\"\\!\\(\\*SubscriptBox[\\(\[CapitalDelta]\[Nu]\\), \\(??\\)]\
+    StyleBox["\<\"\\!\\(\\*SubscriptBox[\\(\[CapitalDelta]\[Nu]\\), \\(Cs\\)]\
 \\)\"\>",
      StripOnInput->False,
      LineColor->GrayLevel[0.9],
@@ -1956,13 +1956,14 @@ Cell[BoxData[
      RowBox[{"{", 
       RowBox[{
        RowBox[{"NotebookDirectory", "[", "]"}], ",", 
-       "\"\<Unit relations in the new SI.png\>\""}], "}"}], "]"}], ",", 
+       "\"\<Unit relations in the new SI.svg\>\""}], "}"}], "]"}], ",", 
     "newSI"}], "]"}], ";"}]], "Input"]
 },
 WindowSize->{1086, 1028},
-WindowMargins->{{751, Automatic}, {Automatic, 28}},
+WindowMargins->{{751, Automatic}, {Automatic, 56}},
 PrivateNotebookOptions->{"FileOutlineCache"->False},
 TrackCellChangeTimes->False,
 FrontEndVersion->"11.0 for Linux x86 (64-bit) (July 28, 2016)",
 StyleDefinitions->"Default.nb"
 ]
+
